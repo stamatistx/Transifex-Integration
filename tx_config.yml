@@ -2,6 +2,6 @@ git:
   filters:
   - filter_type: file
     file_format: MAGENTO
-    source_file: /Users/stamatislamprinoukas/Desktop/EN_Resource_github.CSV
+    source_file: SourceFiles/EN_Resource_github.CSV
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
