@@ -1,7 +1,7 @@
 git:
   filters:
   - filter_type: file
-    file_format: MS_DOCX
+    file_format: .docx
     source_file: Sourcefiles/EN_Resource_github.docx
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
