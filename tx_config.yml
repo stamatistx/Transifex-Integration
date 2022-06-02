@@ -4,7 +4,7 @@ git:
     file_format: MS_DOCX
     source_file: Sourcefiles/EN_Resource_github.docx
     source_language: en
-    translation_files_expression: 'Translations/<lang>/'
+    translation_files_expression: 'Translations/MS_DOCX/<lang>/'
 
   - filter_type: file
     file_format: TXT
